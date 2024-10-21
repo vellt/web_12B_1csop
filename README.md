@@ -7,4 +7,6 @@
 - [5. udvozlo_app](https://vellt.github.io/web_12B_1csop/5.%20udvozlo_app/)
 - [6. szamlalo](https://vellt.github.io/web_12B_1csop/6.%20szamlalo/)
 - [7. szamologep](https://vellt.github.io/web_12B_1csop/7.%20szamologep/)
-- [8. galleria](https://vellt.github.io/web_12B_1csop/8.%20galleria/)
+- [8. szamologep_v2](https://vellt.github.io/web_12B_1csop/8.%20szamologep_v2/)
+- [9. barkoba](https://vellt.github.io/web_12B_1csop/9.%20barkoba/)
+- [10. galleria](https://vellt.github.io/web_12B_1csop/8.%20galleria/)

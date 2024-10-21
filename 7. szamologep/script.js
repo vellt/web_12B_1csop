@@ -39,3 +39,18 @@ kivonas.addEventListener('click',function(){
     let kulonbseg=parseInt(szam1.textContent)-parseInt(szam2.textContent);
     eredmeny.textContent=kulonbseg;
 });
+
+szorzas.addEventListener('click', function(){
+    let szorzat=parseInt(szam1.textContent)*parseInt(szam2.textContent);
+    eredmeny.textContent=szorzat;
+});
+
+osztas.addEventListener('click', function(){
+    if(parseInt(szam2.textContent)===0){
+        alert("0-val nem lehet osztani")
+    }
+    else{
+        let hanyados=parseInt(szam1.textContent)/parseInt(szam2.textContent);
+        eredmeny.textContent=hanyados.toFixed(2);
+    }
+});
