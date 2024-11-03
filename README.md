@@ -9,4 +9,4 @@
 - [07. szamologep](https://vellt.github.io/web_12B_1csop/07.%20szamologep/)
 - [08. szamologep_v2](https://vellt.github.io/web_12B_1csop/08.%20szamologep_v2/)
 - [09. barkoba](https://vellt.github.io/web_12B_1csop/09.%20barkoba/)
-- [10. galleria](https://vellt.github.io/web_12B_1csop/10.%20galleria/)
+- [10. galeria](https://vellt.github.io/web_12B_1csop/10.%20galeria/)
