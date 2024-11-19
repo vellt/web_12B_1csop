@@ -10,8 +10,8 @@ let uzik=[];
 // promise az amikor valami nagyon időigényes folyamat
 // hogy aszintron is lehessen futtatni
 (async ()=>{
-    const adat= await fetch('uzik.csv'); // stringet ad vissza, ahol minden elem végén \n van
-    uzik=(await adat.text()).split('\n'); // feltördeltük \n mentén, ekkor minden egyes sor egy egy eleme lett a tömbnek
+    const adat= await fetch('uzik.csv'); // hálózati hívással lekérjük a fájlt, de ebben mindenféle adat van, ebből ki kell olvasnom a text értét, amely egy string
+    uzik=(await adat.text()).split('\n'); // az await adat.text() stringet ad vissza, ahol minden elem végén \n van. feltördeltük \n mentén, ekkor minden egyes sor egy egy eleme lett a tömbnek
 })();
 
 gomb.addEventListener('click',function(){
