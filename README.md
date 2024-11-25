@@ -15,3 +15,4 @@
 - [13. szinezes](https://vellt.github.io/web_12B_1csop/13.%20szinezes/)
 - [14. topjoy](https://vellt.github.io/web_12B_1csop/14.%20topjoy/)
 - [15. mértani sorozatok](https://vellt.github.io/web_12B_1csop/15.%20mertani_sorozatok/)
+- [16. kutyaev](https://vellt.github.io/web_12B_1csop/16.%20kutyaev/)
