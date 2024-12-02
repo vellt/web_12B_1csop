@@ -16,3 +16,5 @@
 - [14. topjoy](https://vellt.github.io/web_12B_1csop/14.%20topjoy/)
 - [15. mértani sorozatok](https://vellt.github.io/web_12B_1csop/15.%20mertani_sorozatok/)
 - [16. kutyaev](https://vellt.github.io/web_12B_1csop/16.%20kutyaev/)
+- [17. konyvek](https://vellt.github.io/web_12B_1csop/17.%20konyvek/)
+- [18. dinamikus zsiraf](https://vellt.github.io/web_12B_1csop/18.%20dinamikus_zsiraf/)
