@@ -1,0 +1,19 @@
+.gorget {
+    overflow-y: auto; min-height: 250px; max-height: 500px;
+}
+
+#kek, #zold, #piros, #sarga{
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+#kek:hover, #zold:hover, #piros:hover, #sarga:hover{
+    width: 40px;
+    height: 50px;
+
+}
+
+.magassag{
+    height: 55px;
+}
