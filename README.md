@@ -26,4 +26,5 @@
 - [24. Pelei Attila - sütikezeléses hazidolgozata](https://vellt.github.io/web_12B_1csop/24.%20pelei_attila_sutikezeles_hazidolgozat/)
 - [25. Sütikezelés ismétlés](https://vellt.github.io/web_12B_1csop/25.%20sutikezeles_ismetles/)
 - [26. responsive 01](https://vellt.github.io/web_12B_1csop/26.%20responsive_01/)
-- [27. McDonald's 01](https://vellt.github.io/web_12B_1csop/27.%20mcdonalds_v1/)
+- [27. McDonald's v1](https://vellt.github.io/web_12B_1csop/27.%20mcdonalds_v1/)
+- [28. McDonald's v2](https://vellt.github.io/web_12B_1csop/28.%20mcdonalds_v2/)
