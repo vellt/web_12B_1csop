@@ -28,3 +28,4 @@
 - [26. responsive 01](https://vellt.github.io/web_12B_1csop/26.%20responsive_01/)
 - [27. McDonald's v1](https://vellt.github.io/web_12B_1csop/27.%20mcdonalds_v1/)
 - [28. McDonald's v2](https://vellt.github.io/web_12B_1csop/28.%20mcdonalds_v2/)
+- [29. McDonald's v3 (kész)](https://vellt.github.io/web_12B_1csop/29.%20mcdonalds_v3_kesz/)
