@@ -30,3 +30,5 @@
 - [28. McDonald's v2](https://vellt.github.io/web_12B_1csop/28.%20mcdonalds_v2/)
 - [29. McDonald's v3 (kész)](https://vellt.github.io/web_12B_1csop/29.%20mcdonalds_v3_kesz/)
 - [30. Fetch Harry Potter](https://vellt.github.io/web_12B_1csop/30.%20fetch_harry_potter/)
+- [31. Fetch Meals](https://vellt.github.io/web_12B_1csop/31.%20fetch_meals/)
+- [32. Fetch Images mintadoga](https://vellt.github.io/web_12B_1csop/32.%20fetch_images_mintadoga/)
