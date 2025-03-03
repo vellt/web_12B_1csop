@@ -32,3 +32,4 @@
 - [30. Fetch Harry Potter](https://vellt.github.io/web_12B_1csop/30.%20fetch_harry_potter/)
 - [31. Fetch Meals](https://vellt.github.io/web_12B_1csop/31.%20fetch_meals/)
 - [32. Fetch Images mintadoga](https://vellt.github.io/web_12B_1csop/32.%20fetch_images_mintadoga/)
+- [33. Fetch Cicák](https://vellt.github.io/web_12B_1csop/32.%20fetch_cicak/)
