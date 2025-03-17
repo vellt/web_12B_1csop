@@ -33,3 +33,5 @@
 - [31. Fetch Meals](https://vellt.github.io/web_12B_1csop/31.%20fetch_meals/)
 - [32. Fetch Images mintadoga](https://vellt.github.io/web_12B_1csop/32.%20fetch_images_mintadoga/)
 - [33. Fetch Cicák](https://vellt.github.io/web_12B_1csop/33.%20fetch_cicak/)
+- [34. Fetch Star Wars](https://vellt.github.io/web_12B_1csop/34.%20fetch_starwars/)
+- [35. Fetch Techbázis](https://vellt.github.io/web_12B_1csop/35.%20fetch_techbazis/)
