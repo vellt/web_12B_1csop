@@ -35,3 +35,5 @@
 - [33. Fetch Cicák](https://vellt.github.io/web_12B_1csop/33.%20fetch_cicak/)
 - [34. Fetch Star Wars](https://vellt.github.io/web_12B_1csop/34.%20fetch_starwars/)
 - [35. Fetch Techbázis](https://vellt.github.io/web_12B_1csop/35.%20fetch_techbazis/)
+- [36. Fetch Filmek](https://vellt.github.io/web_12B_1csop/36.%20fetch_filmek/)
+- [37. Fetch Bakery](https://vellt.github.io/web_12B_1csop/375.%20fetch_bakery/)
