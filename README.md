@@ -38,3 +38,5 @@
 - [36. Fetch Filmek](https://vellt.github.io/web_12B_1csop/36.%20fetch_filmek/)
 - [37. Fetch Bakery (nincs kész)](https://vellt.github.io/web_12B_1csop/37.%20fetch_bakery_nincs_kesz/)
 - [38. Fetch Határidők](https://vellt.github.io/web_12B_1csop/38.%20fetch_hataridok/)
+- [39. Fetch Bakery (kész)](https://vellt.github.io/web_12B_1csop/39.%20fetch_bakery_kesz/)
+- [40. Belső állapot kezelése](https://vellt.github.io/web_12B_1csop/40.%20belso_allapot_kezelese/)
