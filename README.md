@@ -45,3 +45,5 @@
 - [43. Fetch cipők](https://vellt.github.io/web_12B_1csop/43.%20fetch_cipok/)
 - [44. Post idézetek  (nincs kész)](https://vellt.github.io/web_12B_1csop/44.%20post_idezetek_nincs_kesz/)
 - [45. Post idézetek  (kész)](https://vellt.github.io/web_12B_1csop/45.%20post_idezetek_kesz/)
+- [46. Chat](https://vellt.github.io/web_12B_1csop/46.%20chat/)
+- [47. Komplex Webprojekt v1](https://vellt.github.io/web_12B_1csop/47.%20komplex_webprojekt_v1/)
